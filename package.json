@@ -1,7 +1,7 @@
 {
-  "name": "bun-template",
-  "version": "0.1.0",
-  "private": true,
+  "name": "kando-react-app",
+  "version": "1.0.0",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -37,5 +37,23 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sullaspqr/kando-react-app.git"
+  },
+  "keywords": [
+    "react",
+    "app",
+    "kando"
+  ],
+  "author": "Bence Németh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sullaspqr/kando-react-app/issues"
+  },
+  "homepage": "https://github.com/sullaspqr/kando-react-app#readme"
 }
