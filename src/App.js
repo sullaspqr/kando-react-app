@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <br/>
         <p>
-          Szerkeszd az <code>src/App.js</code> fájlt és mentsd el az újratöltéshez!
+          Szerkeszd az <code>src/App.jsx</code> fájlt és mentsd el az újratöltéshez!
         </p>
         <a
           className="App-link"
